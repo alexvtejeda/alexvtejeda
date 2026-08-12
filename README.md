@@ -1,13 +1,12 @@
 
 ## include <stdio.h>
 int main(void) {
-  printf("Really?");
+  printf("Really?\n");
 }
+---
 GU>MU/P/L/E A- C- D:+ CM++++ MW11 
 !U !MC L>js/C#/C PS PE+ 
 TBBT+/TMM---/TLOTR-/TRM--- RPG- BK++ R?
----
-
 ---
 
 
